@@ -5,7 +5,7 @@
 <img src="https://b4dcat404.github.io/images/two.gif" width="100%"/>
 
 ## 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=7oSkaaa&theme=algolia" alt="7oSkaaa" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=HDRSasiprabha&theme=algolia" alt="HDRSasiprabha" /></p>
 
 <br>
 <br>
