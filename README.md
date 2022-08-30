@@ -1,4 +1,4 @@
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Fullstack developer from Sri Lanka</h3>
 <img src="https://b4dcat404.github.io/images/two.gif" width="100%"/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
