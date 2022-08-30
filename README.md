@@ -1,5 +1,5 @@
 <h3 align="center">A passionate frontend developer from India</h3>
-
+<img src="https://b4dcat404.github.io/images/two.gif" width="100%"/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/linkedin.com/in/randeepani-sasiprabha-32a14921a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/randeepani-sasiprabha-32a14921a" height="30" width="40" /></a>
