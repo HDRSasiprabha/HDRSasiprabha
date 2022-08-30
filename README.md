@@ -1,6 +1,6 @@
 <h3 align="center">A passionate Fullstack developer from Sri Lanka</h3>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineering+Student;Competitive+Programmer;Quick+Learner;DS%20|%20Algorithms%20|%20OOP%20;Specialist%20on%20Codeforces;Division%202%20on%20Codechef%20(3%20Stars);6%20Kyu%20on%20Atcoder;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineering+Student;Competitive+Programmer;Quick+Learner;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 <img src="https://b4dcat404.github.io/images/two.gif" width="100%"/>
 <h3 align="left">Connect with me:</h3>
