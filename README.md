@@ -2,7 +2,7 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineering+Student;Competitive+Programmer;Quick+Learner;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
-<img src="https://pin.it/1m9doUr" width="100%"/>
+<img src="[https://pin.it/1m9doUr](https://www.pinterest.com/pin/638948265896425656/sent/?invite_code=846a6b908ece49f0b54750bd8611fd2a&sfo=1)" width="100%"/>
 
 ## 🔥 Streak Stats
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=HDRSasiprabha&theme=algolia" alt="HDRSasiprabha" /></p>
